@@ -37,7 +37,7 @@ This chapter is set up as follows:
 
 **1. Context**
 
-  This section introduces R and RStudio as well as some plotting functionality.
+  This section introduces R and RStudio, as well as some plotting functionality.
 
 **2. Background**
 
@@ -45,7 +45,7 @@ This chapter is set up as follows:
   
 **3. Examples**
 
-  This section explores some examples of how R is currently being used in research.
+  This section explores some examples of how R is currently used in research.
 
 **4. Challenge**
 
