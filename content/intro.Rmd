@@ -22,9 +22,9 @@ Welcome to a brief introduction to the world of R programming!
 
 ## Introduction to R
 
-This chapter provides a short introduction to the programming language R. R is a **free** open source statistical programming language used by many researchers. R is a great tool for data manipulation, data analysis and data visualisation and importantly has strong support from the large online R community. There’s nothing worse than learning to use a tool that no one else knows and no one can help you with!
+This chapter provides a short introduction to the programming language R. R is a **free** open source statistical programming language used by many researchers. R is a great tool for data manipulation, data analysis and data visualisation and, most importantly, has strong support from a large online community. There’s nothing worse than learning a tool that no one else knows and no one can help with!
 
-This chapter will discuss some of the uses of the R programming language and introduce you to some of the basics of RStudio. By the end of this chapter, you should have gained some familiarity with the uses of R in a research context and have modified some previously written R code. I hope that this chapter will inspire you to apply R to your own research.
+This chapter will discuss some of the uses of the R programming language and introduce you to some of the basics of RStudio. By the end of this chapter, you should have gained some familiarity with the uses of R in a research context and modified some prepared R code. I hope that this chapter will inspire you to apply R to your own research.
 
 <br>
 
