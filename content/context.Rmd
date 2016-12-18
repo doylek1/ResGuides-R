@@ -21,7 +21,7 @@ This section will introduce you to the software, data set and plotting functions
 
 ## Installing R and RStudio
 
-To interact with R, we'll be using RStudio: a free, open source R integrated development environment. You will need to download and install both [R](https://cran.ms.unimelb.edu.au/) and [RStudio](https://www.rstudio.com/products/rstudio/download/). After you have done this, open RStudio (you don't need to open R separately). You're now ready to go!
+To interact with R, we'll be using RStudio: a free, open source R-integrated development environment. You will need to download and install both [R](https://cran.ms.unimelb.edu.au/) and [RStudio](https://www.rstudio.com/products/rstudio/download/). After you have done this, open RStudio (you don't need to open R separately). You're now ready to go!
 
 
 
@@ -36,7 +36,7 @@ When you first open RStudio, you will be greeted by three panels:
 
 * **The interactive R console** (entire left)
  
- The console is used to write instructions or lines of code to the computer. These instructions may be things like reading in data or plotting data, will be performed by the computer as soon as you press the ENTER key. Beware that the instructions you type into the console will not be saved for later use.
+ The console is used to write instructions or lines of code to the computer. These instructions may be things like reading in data or plotting data and will be performed by the computer as soon as you press the ENTER key. Be aware that the instructions you type in the console will not be saved for later use.
 
 * **Environment/History** (tabbed in upper right)
 
