@@ -55,7 +55,7 @@ Is R a tool that you should be using? Do you have data that you need to manipula
 
 ## R and data manipulation
 
-R is great for data manipulation and scales really well with the size of the dataset. Do you need to move from long to wide format? Are you trying to create a frequency table? Manipulating data with 100 observations, 1000 observations or 100000 observations - it’s all the same to R. You use the same commands and get R to do all the grunt work.
+R is great for data manipulation and scales really well with the size of the dataset. Do you need to move from long to wide format? Are you trying to create a frequency table? Manipulating data with 100 observations, 1000 observations or 100000 observations - it’s all the same to R. You use the same commands and get R to the grunt work.
 
 <br>
 
