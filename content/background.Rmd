@@ -45,7 +45,7 @@ But now I use R. When my data changes, I just modify a few commands to rerun my 
 
 ## Why use R?
 
-Is R a tool that you should be using? Do you have data that you need to manipulate? Do you need to perform statistical analyses? Do you need to plot your data? Do you think that graphs produced by Microsoft Excel are ugly? If you answered yes to any of these questions, then R may be the tool for you! Did I mention that it’s free? If you’re not sold yet, here is a list of some of the groups in the university that are using R. If your area of research is mentioned, R may be for you.
+Is R a tool that you should be using? Do you have data that you need to manipulate? Do you need to perform statistical analyses? Do you need to plot your data? Do you think that graphs produced by Microsoft Excel are ugly? If you answered yes to any of these questions, then R may be the tool for you! Did I mention that it’s free? If you’re not sold yet, here is a list of some of the groups at the University of Melbourne that are using R. If your area of research is mentioned, R may be for you.
 
 ![Departments at the university that use R](images/university_depts.png)
 
