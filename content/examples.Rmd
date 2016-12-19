@@ -5,7 +5,7 @@ source("../tools/chunk-options.R")
 
 # Examples 
 
-R is used diversely in research. This section covers three examples of figures that have been produced in R from a selection of different disciplines.
+R is a very diverse tool used in a range of research. This section covers three examples of figures that have been produced in R from a selection of different disciplines.
 
 <br>
 
